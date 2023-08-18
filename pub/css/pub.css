@@ -1,0 +1,11 @@
+.pub_table {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+    text-align: center;
+    align-items: center;
+    line-height: 40px;
+    border: 1px #333 solid;
+    border-radius: 10px;
+}
